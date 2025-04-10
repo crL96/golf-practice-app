@@ -1,9 +1,10 @@
 import './App.css'
+import ClubGenerator from './components/clubGenerator/ClubGenerator';
 
 function App() {
 
   return (
-    <h1>Template</h1>
+    <ClubGenerator />
   );
 }
 
